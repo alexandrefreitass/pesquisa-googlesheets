@@ -1,7 +1,7 @@
 ## Google Sheets Data Search Script
 
 <div align="center">
-    <img src="https://github.com/alexandrefreitass/dashboard-apps-script/assets/109884524/4c0cb952-8b53-4c48-90c8-8458c55dab8d" />
+    <img src="https://github.com/alexandrefreitass/pesquisa-sheets/assets/109884524/ec0a6059-f79f-4916-9f69-883c35e37a77" />
 </div>
 
 Este repositório contém um script do Google Apps Script projetado para facilitar a busca de dados dentro de uma planilha do Google Sheets chamada "EFETIVO". Ao digitar o Registro (RE) da pessoa na célula "H6", o script automaticamente recupera e exibe os dados completos dessa pessoa na planilha.
