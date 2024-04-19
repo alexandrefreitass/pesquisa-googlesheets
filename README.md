@@ -31,4 +31,4 @@ Para que ao pesquisa a linha selecionada se destacasse foi utilizado uma formula
 
 ### Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/alexandrefreitass/dashboard-apps-script/blob/master/LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/alexandrefreitass/pesquisa/blob/master/LICENSE) para mais detalhes.
